@@ -1,0 +1,14 @@
+C:\С# PR\tested\TestPr\bin\Debug\net8.0\TestPr.exe
+C:\С# PR\tested\TestPr\bin\Debug\net8.0\TestPr.deps.json
+C:\С# PR\tested\TestPr\bin\Debug\net8.0\TestPr.runtimeconfig.json
+C:\С# PR\tested\TestPr\bin\Debug\net8.0\TestPr.dll
+C:\С# PR\tested\TestPr\bin\Debug\net8.0\TestPr.pdb
+C:\С# PR\tested\TestPr\obj\Debug\net8.0\TestPr.GeneratedMSBuildEditorConfig.editorconfig
+C:\С# PR\tested\TestPr\obj\Debug\net8.0\TestPr.AssemblyInfoInputs.cache
+C:\С# PR\tested\TestPr\obj\Debug\net8.0\TestPr.AssemblyInfo.cs
+C:\С# PR\tested\TestPr\obj\Debug\net8.0\TestPr.csproj.CoreCompileInputs.cache
+C:\С# PR\tested\TestPr\obj\Debug\net8.0\TestPr.dll
+C:\С# PR\tested\TestPr\obj\Debug\net8.0\refint\TestPr.dll
+C:\С# PR\tested\TestPr\obj\Debug\net8.0\TestPr.pdb
+C:\С# PR\tested\TestPr\obj\Debug\net8.0\TestPr.genruntimeconfig.cache
+C:\С# PR\tested\TestPr\obj\Debug\net8.0\ref\TestPr.dll
