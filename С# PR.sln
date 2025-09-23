@@ -10,6 +10,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RT_1", "RT_1", "{BFA12064-6
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "RT_1\ConsoleApp1\ConsoleApp1.csproj", "{FD3634A5-4B7F-40BA-A9D1-AD118EEC936F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RT_2", "RT_2", "{19B4F062-51A3-4DB8-A99C-31A1D5C859B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "RT_2\ConsoleApp1\ConsoleApp1.csproj", "{E528CCB4-C431-4961-AABD-EFDBF799D45A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +28,10 @@ Global
 		{FD3634A5-4B7F-40BA-A9D1-AD118EEC936F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD3634A5-4B7F-40BA-A9D1-AD118EEC936F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD3634A5-4B7F-40BA-A9D1-AD118EEC936F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E528CCB4-C431-4961-AABD-EFDBF799D45A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E528CCB4-C431-4961-AABD-EFDBF799D45A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E528CCB4-C431-4961-AABD-EFDBF799D45A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E528CCB4-C431-4961-AABD-EFDBF799D45A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -31,6 +39,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{D68F4FE9-4E2B-DF56-7527-5B4951A29070} = {0474715B-806B-8FFA-00F5-9816E2E92194}
 		{FD3634A5-4B7F-40BA-A9D1-AD118EEC936F} = {BFA12064-6018-4D56-9108-793A53BFC6CF}
+		{E528CCB4-C431-4961-AABD-EFDBF799D45A} = {19B4F062-51A3-4DB8-A99C-31A1D5C859B6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B3DB2D6D-BEDE-47EE-91A0-B87988E358AF}
