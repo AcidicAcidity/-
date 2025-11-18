@@ -1,0 +1,15 @@
+C:\С# PR\RT_2_1\Nums1o7\bin\Debug\net8.0\Nums1o7.exe
+C:\С# PR\RT_2_1\Nums1o7\bin\Debug\net8.0\Nums1o7.deps.json
+C:\С# PR\RT_2_1\Nums1o7\bin\Debug\net8.0\Nums1o7.runtimeconfig.json
+C:\С# PR\RT_2_1\Nums1o7\bin\Debug\net8.0\Nums1o7.dll
+C:\С# PR\RT_2_1\Nums1o7\bin\Debug\net8.0\Nums1o7.pdb
+C:\С# PR\RT_2_1\Nums1o7\obj\Debug\net8.0\Nums1o7.GeneratedMSBuildEditorConfig.editorconfig
+C:\С# PR\RT_2_1\Nums1o7\obj\Debug\net8.0\Nums1o7.AssemblyInfoInputs.cache
+C:\С# PR\RT_2_1\Nums1o7\obj\Debug\net8.0\Nums1o7.AssemblyInfo.cs
+C:\С# PR\RT_2_1\Nums1o7\obj\Debug\net8.0\Nums1o7.csproj.CoreCompileInputs.cache
+C:\С# PR\RT_2_1\Nums1o7\obj\Debug\net8.0\Nums1o7.sourcelink.json
+C:\С# PR\RT_2_1\Nums1o7\obj\Debug\net8.0\Nums1o7.dll
+C:\С# PR\RT_2_1\Nums1o7\obj\Debug\net8.0\refint\Nums1o7.dll
+C:\С# PR\RT_2_1\Nums1o7\obj\Debug\net8.0\Nums1o7.pdb
+C:\С# PR\RT_2_1\Nums1o7\obj\Debug\net8.0\Nums1o7.genruntimeconfig.cache
+C:\С# PR\RT_2_1\Nums1o7\obj\Debug\net8.0\ref\Nums1o7.dll

@@ -1,0 +1,15 @@
+C:\С# PR\RT_5\System_Storage_App\bin\Debug\net8.0\System_Storage_App.exe
+C:\С# PR\RT_5\System_Storage_App\bin\Debug\net8.0\System_Storage_App.deps.json
+C:\С# PR\RT_5\System_Storage_App\bin\Debug\net8.0\System_Storage_App.runtimeconfig.json
+C:\С# PR\RT_5\System_Storage_App\bin\Debug\net8.0\System_Storage_App.dll
+C:\С# PR\RT_5\System_Storage_App\bin\Debug\net8.0\System_Storage_App.pdb
+C:\С# PR\RT_5\System_Storage_App\obj\Debug\net8.0\System_Storage_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\С# PR\RT_5\System_Storage_App\obj\Debug\net8.0\System_Storage_App.AssemblyInfoInputs.cache
+C:\С# PR\RT_5\System_Storage_App\obj\Debug\net8.0\System_Storage_App.AssemblyInfo.cs
+C:\С# PR\RT_5\System_Storage_App\obj\Debug\net8.0\System_Storage_App.csproj.CoreCompileInputs.cache
+C:\С# PR\RT_5\System_Storage_App\obj\Debug\net8.0\System_Storage_App.sourcelink.json
+C:\С# PR\RT_5\System_Storage_App\obj\Debug\net8.0\System_Storage_App.dll
+C:\С# PR\RT_5\System_Storage_App\obj\Debug\net8.0\refint\System_Storage_App.dll
+C:\С# PR\RT_5\System_Storage_App\obj\Debug\net8.0\System_Storage_App.pdb
+C:\С# PR\RT_5\System_Storage_App\obj\Debug\net8.0\System_Storage_App.genruntimeconfig.cache
+C:\С# PR\RT_5\System_Storage_App\obj\Debug\net8.0\ref\System_Storage_App.dll

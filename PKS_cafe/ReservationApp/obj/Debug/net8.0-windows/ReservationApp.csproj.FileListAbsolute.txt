@@ -1,0 +1,15 @@
+C:\С# PR\PKS_cafe\ReservationApp\obj\Debug\net8.0-windows\ReservationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\С# PR\PKS_cafe\ReservationApp\obj\Debug\net8.0-windows\ReservationApp.AssemblyInfoInputs.cache
+C:\С# PR\PKS_cafe\ReservationApp\obj\Debug\net8.0-windows\ReservationApp.AssemblyInfo.cs
+C:\С# PR\PKS_cafe\ReservationApp\obj\Debug\net8.0-windows\ReservationApp.csproj.CoreCompileInputs.cache
+C:\С# PR\PKS_cafe\ReservationApp\obj\Debug\net8.0-windows\ReservationApp.sourcelink.json
+C:\С# PR\PKS_cafe\ReservationApp\bin\Debug\net8.0-windows\ReservationApp.exe
+C:\С# PR\PKS_cafe\ReservationApp\bin\Debug\net8.0-windows\ReservationApp.deps.json
+C:\С# PR\PKS_cafe\ReservationApp\bin\Debug\net8.0-windows\ReservationApp.runtimeconfig.json
+C:\С# PR\PKS_cafe\ReservationApp\bin\Debug\net8.0-windows\ReservationApp.dll
+C:\С# PR\PKS_cafe\ReservationApp\bin\Debug\net8.0-windows\ReservationApp.pdb
+C:\С# PR\PKS_cafe\ReservationApp\obj\Debug\net8.0-windows\ReservationApp.dll
+C:\С# PR\PKS_cafe\ReservationApp\obj\Debug\net8.0-windows\refint\ReservationApp.dll
+C:\С# PR\PKS_cafe\ReservationApp\obj\Debug\net8.0-windows\ReservationApp.pdb
+C:\С# PR\PKS_cafe\ReservationApp\obj\Debug\net8.0-windows\ReservationApp.genruntimeconfig.cache
+C:\С# PR\PKS_cafe\ReservationApp\obj\Debug\net8.0-windows\ref\ReservationApp.dll

@@ -1,0 +1,15 @@
+C:\С# PR\KP_1\MartixCalc\bin\Debug\net8.0\MartixCalc.exe
+C:\С# PR\KP_1\MartixCalc\bin\Debug\net8.0\MartixCalc.deps.json
+C:\С# PR\KP_1\MartixCalc\bin\Debug\net8.0\MartixCalc.runtimeconfig.json
+C:\С# PR\KP_1\MartixCalc\bin\Debug\net8.0\MartixCalc.dll
+C:\С# PR\KP_1\MartixCalc\bin\Debug\net8.0\MartixCalc.pdb
+C:\С# PR\KP_1\MartixCalc\obj\Debug\net8.0\MartixCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\С# PR\KP_1\MartixCalc\obj\Debug\net8.0\MartixCalc.AssemblyInfoInputs.cache
+C:\С# PR\KP_1\MartixCalc\obj\Debug\net8.0\MartixCalc.AssemblyInfo.cs
+C:\С# PR\KP_1\MartixCalc\obj\Debug\net8.0\MartixCalc.csproj.CoreCompileInputs.cache
+C:\С# PR\KP_1\MartixCalc\obj\Debug\net8.0\MartixCalc.sourcelink.json
+C:\С# PR\KP_1\MartixCalc\obj\Debug\net8.0\MartixCalc.dll
+C:\С# PR\KP_1\MartixCalc\obj\Debug\net8.0\refint\MartixCalc.dll
+C:\С# PR\KP_1\MartixCalc\obj\Debug\net8.0\MartixCalc.pdb
+C:\С# PR\KP_1\MartixCalc\obj\Debug\net8.0\MartixCalc.genruntimeconfig.cache
+C:\С# PR\KP_1\MartixCalc\obj\Debug\net8.0\ref\MartixCalc.dll
